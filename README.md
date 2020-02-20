@@ -1,0 +1,1 @@
+Just a practice GraphQL API built with Laravel Server.
